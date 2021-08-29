@@ -8,4 +8,5 @@ import com.vilabril.workshopmongo.domian.User;
 @Repository
 public interface UserRepository extends MongoRepository<User, String> {
 
+	
 }
